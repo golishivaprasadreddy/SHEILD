@@ -2,7 +2,7 @@
 
 **SHEILD** is a women’s safety mobile app built with **React Native**. It can send emergency alerts and location information even **without internet access**. It also supports **voice activation**, allowing users to trigger SOS silently and hands-free with a custom voice command.
 
----
+--- 
 
 ## Features
 
